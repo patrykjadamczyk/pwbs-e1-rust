@@ -1,0 +1,10 @@
+{
+  "commands": {
+    "test": "echo Hello World",
+    "test2": [
+      "echo Hello Patryk",
+      "echo Hello World"
+    ],
+    "test3": "echo Hello"
+  }
+}
